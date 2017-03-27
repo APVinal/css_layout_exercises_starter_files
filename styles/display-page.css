@@ -1,0 +1,44 @@
+body {
+	width: 800px;
+	height: 500px;
+	font-size: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 60px;
+}
+
+.one {
+	width: 50%;
+	height: 200px;
+	border: 1px solid black;
+	font-size: 0px;
+	display: inline-block;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.two {
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+	font-size: 0px;
+	display: inline-block;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}
