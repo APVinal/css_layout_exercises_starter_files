@@ -42,3 +42,9 @@ body {
 .orange {
 	background-color: orange;
 }
+
+.red {
+	background-color: red;
+	width: 100%;
+	height: 100px;
+}
